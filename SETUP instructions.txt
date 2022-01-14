@@ -1,0 +1,6 @@
+INTRUCTIONS OF DEPLOYMENT:
+
+1. In the Setup folder open a python file called goPrime, which makes the other 2 python files (py) work.
+2. When you run the code you have to introduce the highest number the code can generate (we can't have infinite because the program may shut down)
+3. The highest prime number obtained and the number of digits will be stored in to text files:
+	'Prime numbers.txt' and 'Digits.txt'
