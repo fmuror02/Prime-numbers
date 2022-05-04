@@ -1,0 +1,1 @@
+This file will display the number of digits your furthest prime number has.
